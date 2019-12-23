@@ -1,5 +1,5 @@
 | File        | Discription      |
 | ------------|-------------| 
-| [I'm an inline-style link](https://www.google.com)      | right-aligned | 
-| col 2 is      | centered      |  
+| [evaluate_query_expansion.ipynb](evaluate_query_expansion.ipynb)      | Groups data by document and tokenize it | 
+| [stemming.ipynb]()      | centered      |  
 | zebra stripes | are neat      |  
